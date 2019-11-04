@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intelli Web Search", "Intelli Web Search.csproj", "{C7575683-8028-4869-A896-C08F7C25006B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7575683-8028-4869-A896-C08F7C25006B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7575683-8028-4869-A896-C08F7C25006B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7575683-8028-4869-A896-C08F7C25006B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7575683-8028-4869-A896-C08F7C25006B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A3B0316-4654-4146-B3E3-0825494EF8F3}
+	EndGlobalSection
+EndGlobal
